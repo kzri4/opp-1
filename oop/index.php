@@ -92,5 +92,4 @@ echo '<br>';
 echo $car1->infomation();
 echo '<br>';
 
-
-変更前
+?>
